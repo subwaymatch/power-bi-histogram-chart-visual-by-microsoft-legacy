@@ -2,6 +2,14 @@
 
 Power BI custom visual file (`.pbiviz`) for Histogram Chart 2.1.1 by Microsoft
 
+<img width="500" src="https://github.com/subwaymatch/power-bi-histogram-chart-visual-by-microsoft-legacy/assets/1064036/e415e2c8-1e8e-4da6-8a4f-fc747d71d1f7">
+<br /><br />
+
+<img width="400" src="https://github.com/subwaymatch/power-bi-histogram-chart-visual-by-microsoft-legacy/assets/1064036/c5d3163b-767b-4e24-8872-b604a5a73429">
+<br /><br />
+
+In 2022, Microsoft's Histogram Chart custom visual disappeared from AppSource without any official comments from Microsoft. The [official AppSource page](https://store.office.com/en-us/app.aspx?assetid=WA104380776&sourcecorrid=e26ecce9-0b9e-47f4-9c7a-a023465dafdc&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false) returns a 404. This custom visual file was extracted from one of my old Power BI files.
+
 ## 🧪 Loading the custom visual in Power BI
 
 👇 Download the `.pbiviz` file below.
@@ -36,7 +44,6 @@ Power BI custom visual file (`.pbiviz`) for Histogram Chart 2.1.1 by Microsoft
 
 ## ❓ Why not add directly from AppSource?
 
-In 2022, Microsoft's "Histogram Chart" custom visual disappeared from AppSource without any official comments from Microsoft. The [original page](https://store.office.com/en-us/app.aspx?assetid=WA104380776&sourcecorrid=e26ecce9-0b9e-47f4-9c7a-a023465dafdc&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false) for the custom visual returns a 404.
 
 <img width="500" alt="powerbi-marketplace-microsoft-histogram-chart" src="https://github.com/subwaymatch/power-bi-histogram-chart-visual-by-microsoft-legacy/assets/1064036/9f6d8229-b814-46a7-9228-ad20e8351334">
 
