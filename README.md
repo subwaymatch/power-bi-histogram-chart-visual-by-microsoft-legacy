@@ -1,4 +1,4 @@
-# Power BI Histogram Chart by Microsoft Custom Visual
+# Power BI Histogram Chart by Microsoft
 
 Power BI custom visual file (`.pbiviz`) for Histogram Chart 2.1.1 by Microsoft
 
