@@ -42,12 +42,7 @@ In 2022, Microsoft's Histogram Chart custom visual disappeared from AppSource wi
 <img width="280" src="https://github.com/subwaymatch/power-bi-histogram-chart-visual-by-microsoft-legacy/assets/1064036/2b6d97a7-f680-4e95-abe4-0bc165576484">
 <br />
 
-## ❓ Why not add directly from AppSource?
-
-
-<img width="500" alt="powerbi-marketplace-microsoft-histogram-chart" src="https://github.com/subwaymatch/power-bi-histogram-chart-visual-by-microsoft-legacy/assets/1064036/9f6d8229-b814-46a7-9228-ad20e8351334">
-
-### Related discussions
+## 📃 Related discussions
 
 - [Power BI Community - Microsoft Histogram Chart](https://community.fabric.microsoft.com/t5/Desktop/Microsoft-Histogram-Chart/td-p/2971391)
 - [Power BI Community - Power BI Histogram No Longer in Maketplace](https://community.fabric.microsoft.com/t5/Issues/Power-BI-Histogram-No-Longer-in-Maketplace/idi-p/2676863)
