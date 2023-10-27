@@ -8,7 +8,7 @@ Power BI custom visual file (`.pbiviz`) for Histogram Chart 2.1.1 by Microsoft
 <img width="400" src="https://github.com/subwaymatch/power-bi-histogram-chart-visual-by-microsoft-legacy/assets/1064036/c5d3163b-767b-4e24-8872-b604a5a73429">
 <br /><br />
 
-In 2022, Microsoft's Histogram Chart custom visual disappeared from AppSource without any official comments from Microsoft. The [official AppSource page](https://store.office.com/en-us/app.aspx?assetid=WA104380776&sourcecorrid=e26ecce9-0b9e-47f4-9c7a-a023465dafdc&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false) returns a 404. This custom visual file was extracted from one of my old Power BI files.
+In 2022, Microsoft's Histogram Chart custom visual disappeared from AppSource without any official comments from Microsoft. The [official AppSource page](https://store.office.com/en-us/app.aspx?assetid=WA104380776&sourcecorrid=e26ecce9-0b9e-47f4-9c7a-a023465dafdc&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false) currently returns a 404. The only way to use Microsoft's Histogram Chart is to extract the custom visual file (`.pbiviz`) from an old Power BI file that included the custom visual. This repository is meant to share the extracted custom visual for users who are looking to use Microsoft's Histogram Chart.
 
 ## 🧪 Loading the custom visual in Power BI
 
