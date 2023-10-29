@@ -44,6 +44,7 @@ In 2022, Microsoft's Histogram Chart custom visual disappeared from AppSource wi
 
 ## 📃 Related discussions
 
+- [Power BI Community - Histogram 2.1.1 is not available anymore](https://community.powerbi.com/t5/Desktop/Histogram-2-1-1-is-not-available-anymore/td-p/2668305)
 - [Power BI Community - Microsoft Histogram Chart](https://community.fabric.microsoft.com/t5/Desktop/Microsoft-Histogram-Chart/td-p/2971391)
 - [Power BI Community - Power BI Histogram No Longer in Maketplace](https://community.fabric.microsoft.com/t5/Issues/Power-BI-Histogram-No-Longer-in-Maketplace/idi-p/2676863)
 - [Power BI Community - Histogram Chart visual unavailable](https://community.fabric.microsoft.com/t5/Issues/Histogram-Chart-visual-unavailable/idi-p/2628546)
@@ -52,8 +53,7 @@ In 2022, Microsoft's Histogram Chart custom visual disappeared from AppSource wi
 ## 📌 Notes and Disclaimers
 
 - I do not own any code or assets packaged inside the `.pbiviz` file.
-- For original source code, see the official repository ([https://github.com/Microsoft/PowerBI-visuals-histogram](https://github.com/Microsoft/PowerBI-visuals-histogram)). 
+- For source code, see the official repository ([https://github.com/Microsoft/PowerBI-visuals-histogram](https://github.com/Microsoft/PowerBI-visuals-histogram)). 
 - I am sharing the `.pbiviz` file here because...
   - The [official repository](https://github.com/Microsoft/PowerBI-visuals-histogram) does not include a packaged file and the custom visual is no longer available anywhere.
   - The [official repository](https://github.com/Microsoft/PowerBI-visuals-histogram) is licensed under the [MIT License](https://github.com/microsoft/powerbi-visuals-histogram/blob/master/LICENSE).
-  - The `.pbiviz` file was extracted and repackaged from an old Power BI file (`.pbix`).
